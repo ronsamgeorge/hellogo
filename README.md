@@ -1,0 +1,2 @@
+# hellogo
+Practice Go program
